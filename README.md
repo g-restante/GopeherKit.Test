@@ -202,7 +202,6 @@ func IsPositive(t *testing.T, value int, msgAndArgs ...interface{}) {
     }
 }
 ```
-```
 
 ## API Reference
 

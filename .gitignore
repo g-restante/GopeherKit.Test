@@ -27,6 +27,14 @@ go.work.sum
 # env file
 .env
 
+# Generated code and build artifacts
+generated/
+example/mocks/
+example/custom/
+gopherkit-test
+gopherkit.test
+*.exe
+
 # Editor/IDE
 # .idea/
 # .vscode/
